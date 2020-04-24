@@ -6,3 +6,5 @@ open source computer vision
 libraries of python
 
 information about c++
+
+info about open cv
