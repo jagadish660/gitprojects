@@ -1,6 +1,8 @@
 this is a new text file 
+
 commite to c++ python and html
 new info about dep learning and node.js,and watson vision
 and open cv
 this is the fourth line
+
 
