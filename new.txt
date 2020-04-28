@@ -1,10 +1,11 @@
 this is a new text file 
 
 commite to c++ python and html
-new info about dep learning and node.js,and watson vision
+new info about deep learning and node.js,and watson vision
 and open cv
 this is the fourth line
 Adding the fifth line
 about node.js
-
+about c++
+about python
 
